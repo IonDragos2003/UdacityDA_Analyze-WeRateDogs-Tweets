@@ -8,7 +8,7 @@
 ### Scope of the project
 
 For this project, the scope is to analyze and produce insights on the twitter accounts WeRateDogs tweets overtime. Additionally, the project involves working with multiple datasets that are ultimately
-combined together
+combined together.
 
 ### Steps:
 
